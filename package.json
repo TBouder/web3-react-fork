@@ -30,7 +30,7 @@
   "author": "Thomas Bouder <tbouder@pm.me>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Tbouder/web3-react-fork.git"
+    "url": "git://github.com/TBouder/web3-react-fork.git"
   },
   "scripts": {
     "bootstrap": "lerna bootstrap",
