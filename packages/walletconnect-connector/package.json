@@ -39,8 +39,8 @@
   "dependencies": {
     "@walletconnect/types": "^1.4.1",
     "@walletconnect/web3-provider": "^1.4.1",
-    "@web3-react-fork/abstract-connector": "^6.1.0",
-    "@web3-react-fork/types": "^7.0.22",
+    "@web3-react-fork/abstract-connector": "^2.0.0",
+    "@web3-react-fork/types": "^2.0.0",
     "bufferutil": "^4.0.3",
     "tiny-invariant": "^1.0.6",
     "utf-8-validate": "^5.0.4"

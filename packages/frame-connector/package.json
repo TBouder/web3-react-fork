@@ -32,7 +32,7 @@
 		"dist"
 	],
 	"dependencies": {
-		"@web3-react-fork/types": "^7.0.22",
+		"@web3-react-fork/types": "^2.0.0",
 		"eth-provider": "^0.2.5",
 		"tiny-invariant": "^1.0.6"
 	},

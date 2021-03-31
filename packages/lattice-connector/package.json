@@ -38,8 +38,8 @@
   },
   "dependencies": {
     "@0x/subproviders": "^6.2.0",
-    "@web3-react-fork/abstract-connector": "^6.1.0",
-    "@web3-react-fork/types": "^7.0.22",
+    "@web3-react-fork/abstract-connector": "^2.0.0",
+    "@web3-react-fork/types": "^2.0.0",
     "eth-lattice-keyring": "^0.2.7"
   },
   "license": "GPL-3.0-or-later",

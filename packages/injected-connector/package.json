@@ -37,8 +37,8 @@
     "lint": "tsdx lint src"
   },
   "dependencies": {
-    "@web3-react-fork/abstract-connector": "^6.1.0",
-    "@web3-react-fork/types": "^7.0.22",
+    "@web3-react-fork/abstract-connector": "^2.0.0",
+    "@web3-react-fork/types": "^2.0.0",
     "tiny-warning": "^1.0.3"
   },
   "license": "GPL-3.0-or-later",
