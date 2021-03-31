@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.1](https://github.com/TBouder/web3-react-fork/compare/@web3-react-fork/trezor-connector@2.0.0...@web3-react-fork/trezor-connector@2.0.1) (2021-03-31)
+
+**Note:** Version bump only for package @web3-react-fork/trezor-connector
+
+
+
+
+
 # [2.0.0](https://github.com/TBouder/web3-react-fork/compare/@web3-react-fork/trezor-connector@1.0.19...@web3-react-fork/trezor-connector@2.0.0) (2021-03-31)
 
 **Note:** Version bump only for package @web3-react-fork/trezor-connector

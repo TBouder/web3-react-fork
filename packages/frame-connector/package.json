@@ -9,7 +9,7 @@
 		"access": "public",
 		"registry": "https://registry.npmjs.org/"
 	},
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
 	"keywords": [
 		"react",
