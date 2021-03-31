@@ -1,0 +1,38 @@
+{
+  "name": "@web3-react-fork/types",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "version": "6.0.4",
+  "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
+  "keywords": [
+    "react",
+    "react-hooks",
+    "hooks",
+    "ethereum",
+    "javascript",
+    "typescript",
+    "web3",
+    "context",
+    "frontend",
+    "dapp"
+  ],
+  "author": "Thomas Bouder <tbouder@protonmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TBouder/web3-react-fork"
+  },
+  "main": "dist/index.js",
+  "module": "dist/types.esm.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "start": "tsdx watch",
+    "build": "tsdx build",
+    "lint": "tsdx lint src"
+  },
+  "license": "GPL-3.0-or-later"
+}
