@@ -3,7 +3,7 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"version": "6.1.1",
+	"version": "6.1.2",
 	"description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
 	"keywords": [
 		"react",
@@ -35,5 +35,5 @@
 		"tiny-invariant": "^1.0.6"
 	},
 	"license": "GPL-3.0-or-later",
-	"gitHead": "d78fa1533ead8ca9486c881f5404162e091d9d81"
+	"gitHead": "7ba0398345b57a858109282f4ed7771b8a4671e9"
 }
