@@ -1,5 +1,5 @@
 {
-  "name": "@tbouder/fortmatic-connector",
+  "name": "@web3-react-fork/fortmatic-connector",
   "repository": {
     "type": "git",
     "url": "git://github.com/TBouder/web3-react-fork.git",
@@ -9,7 +9,7 @@
     "access": "public",
     "registry": "https://npm.pkg.github.com/"
   },
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
   "keywords": [
     "react",
