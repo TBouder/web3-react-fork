@@ -9,7 +9,7 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
   "keywords": [
     "react",
@@ -42,5 +42,5 @@
     "authereum": "^0.0.4-beta.157"
   },
   "license": "GPL-3.0-or-later",
-  "gitHead": "b89872e330af4f3c00bd4a860935c28248510add"
+  "gitHead": "fa300b219dd593cf9d9df526fd837a80028c0b20"
 }
