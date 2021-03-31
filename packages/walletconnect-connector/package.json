@@ -9,7 +9,7 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
   "keywords": [
     "react",
@@ -39,8 +39,8 @@
   "dependencies": {
     "@walletconnect/types": "^1.4.1",
     "@walletconnect/web3-provider": "^1.4.1",
-    "@web3-react-fork/abstract-connector": "^2.0.3",
-    "@web3-react-fork/types": "^2.0.3",
+    "@web3-react-fork/abstract-connector": "^2.0.4",
+    "@web3-react-fork/types": "^2.0.4",
     "bufferutil": "^4.0.3",
     "tiny-invariant": "^1.0.6",
     "utf-8-validate": "^5.0.4"

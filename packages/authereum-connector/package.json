@@ -9,7 +9,7 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
   "keywords": [
     "react",
@@ -37,8 +37,8 @@
     "lint": "tsdx lint src"
   },
   "dependencies": {
-    "@web3-react-fork/abstract-connector": "^2.0.3",
-    "@web3-react-fork/types": "^2.0.3",
+    "@web3-react-fork/abstract-connector": "^2.0.4",
+    "@web3-react-fork/types": "^2.0.4",
     "authereum": "^0.0.4-beta.157"
   },
   "license": "GPL-3.0-or-later",
