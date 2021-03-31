@@ -9,7 +9,7 @@
     "access": "public",
     "registry": "https://npm.pkg.github.com/"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
   "keywords": [
     "react",
@@ -39,5 +39,5 @@
     "@web3-react-fork/types": "^7.0.22"
   },
   "license": "GPL-3.0-or-later",
-  "gitHead": "7ba0398345b57a858109282f4ed7771b8a4671e9"
+  "gitHead": "e78e738eb290917435b1ed84eabaa9b1267de4a7"
 }
