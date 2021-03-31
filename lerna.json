@@ -1,14 +1,14 @@
 {
-  "version": "6.0.4",
+  "packages": ["packages/*"],
+  "version": "independent",
   "npmClient": "yarn",
+  "useWorkspaces": true,
   "command": {
     "publish": {
-      "ignoreChanges": [
-        "*.md"
-      ]
+      "conventionalCommits": true,
+      "message": "chore(release): publish",
+      "registry": "https://npm.pkg.github.com",
+      "allowBranch": "main"
     }
-  },
-  "packages": [
-    "packages/*"
-  ]
+  }
 }

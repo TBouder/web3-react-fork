@@ -1,44 +1,38 @@
 {
-  "name": "@web3-react-fork/frame-connector",
-  "publishConfig": {
-    "access": "public"
-  },
-  "version": "6.0.4",
-  "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
-  "keywords": [
-    "react",
-    "react-hooks",
-    "hooks",
-    "ethereum",
-    "javascript",
-    "typescript",
-    "web3",
-    "context",
-    "frontend",
-    "dapp",
-    "frame"
-  ],
-  "author": "Thomas Bouder <tbouder@pm.me>",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/TBouder/web3-react-fork.git"
-  },
-  "main": "dist/index.js",
-  "module": "dist/frame-connector.esm.js",
-  "typings": "dist/index.d.ts",
-  "files": [
-    "dist"
-  ],
-  "scripts": {
-    "start": "tsdx watch",
-    "build": "tsdx build",
-    "lint": "tsdx lint src"
-  },
-  "dependencies": {
-    "@web3-react-fork/abstract-connector": "^6.0.4",
-    "@web3-react-fork/types": "^7.0.22",
-    "eth-provider": "^0.2.5",
-    "tiny-invariant": "^1.0.6"
-  },
-  "license": "GPL-3.0-or-later"
+	"name": "@web3-react-fork/frame-connector",
+	"publishConfig": {
+		"access": "public"
+	},
+	"version": "6.0.4",
+	"description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
+	"keywords": [
+		"react",
+		"react-hooks",
+		"hooks",
+		"ethereum",
+		"javascript",
+		"typescript",
+		"web3",
+		"context",
+		"frontend",
+		"dapp",
+		"frame"
+	],
+	"author": "Thomas Bouder <tbouder@pm.me>",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/TBouder/web3-react-fork.git"
+	},
+	"main": "dist/index.js",
+	"module": "dist/frame-connector.esm.js",
+	"typings": "dist/index.d.ts",
+	"files": [
+		"dist"
+	],
+	"dependencies": {
+		"@web3-react-fork/types": "^7.0.22",
+		"eth-provider": "^0.2.5",
+		"tiny-invariant": "^1.0.6"
+	},
+	"license": "GPL-3.0-or-later"
 }
