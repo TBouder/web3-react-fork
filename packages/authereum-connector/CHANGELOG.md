@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.5](https://github.com/TBouder/web3-react-fork/compare/@web3-react-fork/authereum-connector@1.0.4...@web3-react-fork/authereum-connector@1.0.5) (2021-03-31)
+
+**Note:** Version bump only for package @web3-react-fork/authereum-connector
+
+
+
+
+
 ## [1.0.4](https://github.com/TBouder/web3-react-fork/compare/@web3-react-fork/authereum-connector@1.0.3...@web3-react-fork/authereum-connector@1.0.4) (2021-03-31)
 
 **Note:** Version bump only for package @web3-react-fork/authereum-connector

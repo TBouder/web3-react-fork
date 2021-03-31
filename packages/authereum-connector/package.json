@@ -9,7 +9,7 @@
     "access": "public",
     "registry": "https://npm.pkg.github.com/"
   },
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
   "keywords": [
     "react",
@@ -42,5 +42,5 @@
     "authereum": "^0.0.4-beta.157"
   },
   "license": "GPL-3.0-or-later",
-  "gitHead": "4471cd2e088b94b82759bbe103af2aed321362a7"
+  "gitHead": "a68cb70fca77f2b0858808bf70e329563c710bd2"
 }
