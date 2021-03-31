@@ -2,14 +2,14 @@
   "name": "@web3-react-fork/lattice-connector",
   "repository": {
     "type": "git",
-    "url": "git://github.com/tbouder/web3-react-fork.git",
+    "url": "git://github.com/TBouder/web3-react-fork.git",
     "directory": "packages/lattice-connector"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://npm.pkg.github.com/"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
   "keywords": [
     "react",
@@ -43,5 +43,5 @@
     "eth-lattice-keyring": "^0.2.7"
   },
   "license": "GPL-3.0-or-later",
-  "gitHead": "e78e738eb290917435b1ed84eabaa9b1267de4a7"
+  "gitHead": "4471cd2e088b94b82759bbe103af2aed321362a7"
 }
