@@ -9,7 +9,7 @@
     "access": "public",
     "registry": "https://npm.pkg.github.com/@web3-react-fork"
   },
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
   "keywords": [
     "react",
@@ -36,5 +36,5 @@
     "lint": "tsdx lint src"
   },
   "license": "GPL-3.0-or-later",
-  "gitHead": "119b249fa20c08a7b0f0a55c29ce88ae6341da2c"
+  "gitHead": "b316ece23ba9a53aea151e527aee5be28a9170e1"
 }
