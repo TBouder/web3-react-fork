@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.16](https://github.com/TBouder/web3-react-fork/compare/@web3-react-fork/types@1.0.15...@web3-react-fork/types@1.0.16) (2021-03-31)
+
+**Note:** Version bump only for package @web3-react-fork/types
+
+
+
+
+
 ## [1.0.15](https://github.com/TBouder/web3-react-fork/compare/@web3-react-fork/types@1.0.14...@web3-react-fork/types@1.0.15) (2021-03-31)
 
 **Note:** Version bump only for package @web3-react-fork/types

@@ -7,9 +7,9 @@
 	},
 	"publishConfig": {
 		"access": "public",
-		"registry": "https://npm.pkg.github.com"
+		"registry": "https://npm.pkg.github.com/@tbouder"
 	},
-	"version": "1.0.15",
+	"version": "1.0.16",
 	"description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
 	"keywords": [
 		"react",
@@ -37,5 +37,5 @@
 		"tiny-invariant": "^1.0.6"
 	},
 	"license": "GPL-3.0-or-later",
-	"gitHead": "fe010293f9b38064590693b064ec2cd06cb6ff27"
+	"gitHead": "0409eaac374e4f9095681fbb2e677586436076c0"
 }
