@@ -31,8 +31,14 @@
 	"files": [
 		"dist"
 	],
+	"scripts": {
+		"start": "tsdx watch",
+		"build": "tsdx build",
+		"lint": "tsdx lint src"
+	},
 	"dependencies": {
 		"@web3-react-fork/types": "^2.0.5",
+    	"@web3-react-fork/abstract-connector": "^2.0.5",
 		"eth-provider": "^0.9.4",
 		"tiny-invariant": "^1.1.0"
 	},
