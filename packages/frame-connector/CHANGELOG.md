@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.7](https://github.com/TBouder/web3-react-fork/compare/@web3-react-fork/frame-connector@2.0.6...@web3-react-fork/frame-connector@2.0.7) (2021-09-15)
+
+**Note:** Version bump only for package @web3-react-fork/frame-connector
+
+
+
+
+
 ## [2.0.6](https://github.com/TBouder/web3-react-fork/compare/@web3-react-fork/frame-connector@2.0.5...@web3-react-fork/frame-connector@2.0.6) (2021-09-15)
 
 **Note:** Version bump only for package @web3-react-fork/frame-connector
