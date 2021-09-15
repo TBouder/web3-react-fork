@@ -33,8 +33,8 @@
 	],
 	"dependencies": {
 		"@web3-react-fork/types": "^2.0.5",
-		"eth-provider": "^0.2.5",
-		"tiny-invariant": "^1.0.6"
+		"eth-provider": "^0.9.4",
+		"tiny-invariant": "^1.1.0"
 	},
 	"license": "GPL-3.0-or-later",
 	"gitHead": "de18922b1932cae233043d95fffe578c4cf3eb23"
